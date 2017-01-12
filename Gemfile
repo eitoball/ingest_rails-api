@@ -21,3 +21,7 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen'
 end
+
+group :test do
+  gem 'database_rewinder'
+end
