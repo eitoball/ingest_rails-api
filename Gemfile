@@ -8,6 +8,7 @@ end
 gem 'rails', '~> 5.0.1'
 
 gem 'activerecord-postgis-adapter'
+gem 'delayed_job_active_record'
 gem 'pg'
 gem 'puma'
 
